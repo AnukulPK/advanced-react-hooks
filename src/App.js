@@ -1,10 +1,10 @@
 import "./App.css";
-import UseMemoExample from "./components/useMemoExample";
+import UseCallbackExample from "./components/UseCallbackExample";
 
 function App() {
   return (
     <div className="container mt-5">
-      <UseMemoExample />
+      <UseCallbackExample />
     </div>
   );
 }
